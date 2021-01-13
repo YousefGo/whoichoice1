@@ -1,0 +1,115 @@
+.bg{
+   
+    background-color: slategray;
+}
+*{
+    margin:0 ; 
+    direction: rtl;
+}
+.header{
+    background-color: #FDB827;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin:0 auto ;
+}
+.website{
+    font-size: 28px;
+  
+
+    text-align: center;
+    padding-top: 2%;
+}
+
+.content {
+background-image: url("../image/back.jpg");
+min-height: 960px;
+
+
+}
+
+.footer{
+    background-color:red;
+}
+.sidebar{
+    background-color: tomato;
+   
+}
+.Main-content {
+    background-color: lightcoral;
+}
+.Main-content2 {
+    background-color: rgb(122, 91, 91);
+}
+.heightcon{
+    min-height: 550px;
+}
+
+.word{
+    width: 100%;
+    border-radius: 20px;
+    height: 90%;
+    border-radius: 25px;
+
+}
+.btn{
+    background-color:#21209C;
+    width: 100%;
+    border-radius: 25px;
+    color:white;
+    height: 70%;
+}
+.btn2{
+    background-color:#21209C;
+    margin:0 10px;
+    padding:1px 10px;
+
+    border-radius: 25px;
+    color:white;
+
+}
+.insdiebtn{
+    position: relative;
+    text-align: center;
+    color:white; 
+}
+.nav{
+    background-color: #23120B;
+}
+.login{
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    text-align:center;
+    color:#D2D2D2;
+    font-size: 16px;
+    padding:1%;
+}
+.voice{
+    color:#FDB827;
+    font-size: 54px;
+    text-align: center;
+}
+.flag{
+text-align: center;
+font-size: 36px;
+}
+.whoiswe{
+    margin: 24px;
+    color:#23120B;
+}
+.des{
+    color:#3c3b3f;
+    font-size: 20px;
+    margin: 18px;
+    word-spacing: 5px;
+    line-height: 40px;
+    background-color:#fdb927a2;
+     border-radius: 4px;
+
+}
+
